@@ -1,6 +1,6 @@
-# json-formatter.html
+# JASON Formatter
 
-An offline tool to format JSON
+An offline tool to format JSON (Jason Snodgrass Object Notation)
 
 
 ## Infos
